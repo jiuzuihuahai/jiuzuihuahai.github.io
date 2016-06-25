@@ -81,7 +81,7 @@
 .xiabu .diyi .jieshao{
 	width: 238px;
 	height: 240px;
-	border: 1px solid white; 
+	border: 1px solid white;
 	float:left;
 	background-color: #f1f1f1
 }
@@ -195,7 +195,7 @@
 .weibu{
 	width: 1000px;
 	height: 240px;
-	border: 1px solid white;
+	
 	margin: 0 auto;
 	margin-top: 310px;
 	background-color: #e5e5e5;
@@ -256,13 +256,13 @@
 .dakuai{
 	height: 246px;
 	width: 472px;
-	border: 1px solid white;
+	
 	float: left;
 }
 .weibu .kuai{
 	height: 246px;
 	width: 250px;
-	border: 1px solid white;
+	
 	float: left;
 }
 .weibu .kuai h3{
@@ -290,7 +290,7 @@
 .zuihou{
 	height: 240px;
 	width: 270px;
-	border: 1px solid white;
+	
 	float: left;
 }
 .weibu .zuihou h3{
